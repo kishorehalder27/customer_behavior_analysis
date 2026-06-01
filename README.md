@@ -57,8 +57,6 @@ Identified key patterns and trends in the dataset
 Highlighted areas of improvement and opportunities
 Provided actionable insights that can support decision-making
 
-(You can add 2–3 strong numerical insights here based on your dataset to make it even stronger)
-
 ▶️ How to Run
 Clone the repository
 
